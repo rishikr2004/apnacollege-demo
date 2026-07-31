@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first git repository.
 <br>
-author - rishi kumar
+author - rishi raj
